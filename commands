@@ -1,0 +1,17 @@
+Commands:-
+1. git clone (user ssh)
+2. git push origin (branchname)
+3. git pull origin (branchname)
+4. git add .
+5. git commit -m "(Message)"
+6. git branch -a
+7. git checkout (branchname)
+8. git checkout -b (newbranchname)
+9. git log
+10. git status
+11. git remote -v
+12. git config
+13. git tag (tagname) (First 4-5 digits of the id)
+14. git --version
+15. git config --global user.name "YOur name"
+16. git config --global user.email "your email"
