@@ -2,6 +2,7 @@ pipeline {
   agaent any
   stages {
     stage('Build') {
+      step {
       echo 'Building...'
     }
   }
